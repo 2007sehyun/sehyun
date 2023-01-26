@@ -3,3 +3,14 @@ ctrl + ~ 는 터미널 생성
 우측하단 + 표시 클릭 후 git bash로 변경
 dsdsd
 dfd
+작업 후 저장 
+git add 작업한 파일 
+git commit -m "내용"
+순으로 마무리햣 ㄱ드
+
+git은 뭔가 파일을 만들고 저장 했다면 
+1. git add 하고 작업한 파일을 추가해 줘야한다 .
+2. 모든 추가가 완료되었다면 그 상태를 commit 해줘야 한다 .
+    git commit -m "메세지"
+3. commit 이 끝난 거는 remote에 올리는 작업을 해야한다. 
+    git push origin[내가 결정한 저장소 이름] master[처음 마스터 브랜치 이름]
