@@ -2,3 +2,4 @@ ctrl + S 를 눌러 저장
 ctrl + ~ 는 터미널 생성
 우측하단 + 표시 클릭 후 git bash로 변경
 dsdsd
+dfd
